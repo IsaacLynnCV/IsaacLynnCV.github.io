@@ -28,3 +28,9 @@ body { background-color:#FFFFFF; border: 0px solid #404040; padding:0;  margin: 
 #container_5a940f7f_padding { margin: 10px; display: block;  }
 #container_1ea2dbfe { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:600px; background:none; border: 1px solid #404040;  }
 #container_1ea2dbfe_padding { margin: 10px; display: block;  }
+@media only screen and (max-width: 640px)
+{
+		#container_3bca5026 { width:100%;  }
+		#container_3b4af324 * span { font-size:18pt;  }
+		#container_5a940f7f { width:100%;  }
+}
