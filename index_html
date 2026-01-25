@@ -1,0 +1,26 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; border: 0px solid #404040; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_169edec1 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none; border: 1px solid #404040;  }
+#container_169edec1_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:44pt; font-family:Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', sans-serif-condensed, sans-serif; color:#000000; font-weight:bold; text-decoration:underline;  }
+#container_552d7807 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:50%; min-height:390px; background:none; border: 1px solid #404040;  }
+#container_552d7807_padding { margin: 10px; display: block;  }
+.textstyle4 { font-size:28pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+.textstyle5 { text-align:justify; }
+.textstyle6 { font-size:28pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.ulstyle1 { margin:0; font-size: 24pt; color:#000000;  }
+.textstyle7 { font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle8 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_1ea2dbfe { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:50%; min-height:927px; background:none; border: 1px solid #404040;  }
+#container_1ea2dbfe_padding { margin: 10px; display: block;  }
+.textstyle9 { font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+#container_382cbccc { box-sizing: border-box; position:absolute; left:0%; top:62%; width:50%; min-height:323px; background:none; border: 1px solid #404040;  }
+#container_382cbccc_padding { margin: 10px; display: block;  }
+.textstyle10 { font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_3b4af324 { box-sizing: border-box; position:absolute; left:0%; top:98%; width:50%; min-height:200px; background:none; border: 1px solid #404040;  }
+#container_3b4af324_padding { margin: 10px; display: block;  }
