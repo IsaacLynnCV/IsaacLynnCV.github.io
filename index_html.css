@@ -1,36 +1,46 @@
-a { color:#5D5D9E; } 
-a:visited { color:#5D5D9E; } 
-a:active { color:#5C615E; } 
-a:hover { color:#B2B3B4; } 
-body { background-color:#FFFFFF; border: 0px solid #404040; padding:0;  margin: 0; }
-.textstyle1 { text-align:left; }
-#container_169edec1 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none; border: 1px solid #404040;  }
-#container_169edec1_padding { margin: 10px; display: block;  }
-.textstyle2 { text-align:center; }
-.textstyle3 { font-size:44pt; font-family:Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', sans-serif-condensed, sans-serif; color:#000000; font-weight:bold; text-decoration:underline;  }
-#container_3bca5026 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; min-width:50%; background:none;  }
-#container_3bca5026_padding { margin: 10px; display: block;  }
-#container_552d7807 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:101%; min-height:421px; min-width:50%; background:none; border: 1px solid #404040;  }
-#container_552d7807_padding { margin: 10px; display: block;  }
-.textstyle4 { font-size:28pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
-.textstyle5 { text-align:justify; }
-.textstyle6 { font-size:28pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-.ulstyle1 { margin:0; font-size: 24pt; color:#000000;  }
-.textstyle7 { font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-.textstyle8 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#container_382cbccc { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:101%; min-height:330px; background:none; border: 1px solid #404040;  }
-#container_382cbccc_padding { margin: 10px; display: block;  }
-.textstyle9 { font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
-.textstyle10 { font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#container_3b4af324 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:101%; min-height:182px; background:none; border: 1px solid #404040;  }
-#container_3b4af324_padding { margin: 10px; display: block;  }
-#container_5a940f7f { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
-#container_5a940f7f_padding { margin: 10px; display: block;  }
-#container_1ea2dbfe { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:600px; background:none; border: 1px solid #404040;  }
-#container_1ea2dbfe_padding { margin: 10px; display: block;  }
-@media only screen and (max-width: 640px)
-{
-		#container_3bca5026 { width:100%;  }
-		#container_3b4af324 * span { font-size:18pt;  }
-		#container_5a940f7f { width:100%;  }
-}
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="index_html.css?h=6782834f">
+</head>
+<body>
+<div class="textstyle1">
+<div id="container_e4bf9ac"><div id="container_e4bf9ac_padding" ><div class="textstyle2"><span class="textstyle3">Isaac Lynn</span><span class="textstyle4"><br/></span><span class="textstyle5"><br/></span></div>
+<div class="textstyle1"><span class="textstyle6">EDUCATION</span><span class="textstyle7"><br/></span><span class="textstyle8"><br/></span><span class="textstyle9">GCSEs (or equivalent):</span><span class="textstyle10"><br/></span><ul id="ul_7062c2b0" class="ulstyle1">
+<li><span class="textstyle11">Computer Science - 8</span></li>
+<li><span class="textstyle11">Engineering - Distinction*</span></li>
+<li><span class="textstyle11">Graphic Design - Merit</span></li>
+<li><span class="textstyle11">Cyber Security - Distinction</span></li>
+<li><span class="textstyle11">Double Award Science - 8-8</span></li>
+<li><span class="textstyle11">Maths - 7</span></li>
+<li><span class="textstyle11">English Language - 6 </span><span class="textstyle4"></span></li>
+<li><span class="textstyle11">English Literature - 6</span></li>
+<li><span class="textstyle11">Further Maths -</span><span class="textstyle4"> 5</span></li>
+</ul>
+<span class="textstyle12">(predicted grades)</span></div>
+<div class="textstyle2"><span class="textstyle4"><br/></span></div>
+<div class="textstyle1"><span class="textstyle13">A-Level (or equivalent) choices:</span></div>
+<div class="textstyle2"><span class="textstyle4"><br/></span></div>
+<div class="textstyle1"><ul id="ul_35965677" class="ulstyle1">
+<li><span class="textstyle11">Maths </span></li>
+<li><span class="textstyle11">Physics</span></li>
+<li><span class="textstyle11">Computer science </span></li>
+<li><span class="textstyle11">Engineering</span></div>
+<div class="textstyle2"></li>
+</ul>
+<span class="textstyle4"><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></span><span class="textstyle5">Contact</span><span class="textstyle4"><br/>&#9993; </span><span class="textstyle14">isaaclynn10@protonmail.com</span><span class="textstyle4"><br/>&#128222; 07749 146688</span></div>
+<div class="textstyle1"></div>
+</div></div><div id="container_64f37254"><div id="container_64f37254_padding" ><div class="textstyle1"><span class="textstyle15">ABOUT ME</span><span class="textstyle16"><br/><br/></span><span class="textstyle17">I am 16 and eager to learn; I enjoy new challenges and problems to solve.<br/><br/>I like to upgrade and change my computer's hardware and I also enjoy installing different Linux distros. I taught myself Python coding and am now learning C language, I find coding challenges intriguing and enjoyable.<br/><br/>I learned German in school for 3 years and now continue with over a 3 year streak on Duolingo. I find the technicalities and etymology of languages interesting which helps me to learn different coding languages too.<br/><br/></span><span class="textstyle18">In my spare time I:</span><span class="textstyle17"><br/><br/></span><ul id="ul_4cfbf672" class="ulstyle2">
+<li><span class="textstyle17">Play electric guitar</span></li>
+<li><span class="textstyle17">Study chess</span></li>
+<li><span class="textstyle17">Enjoy educational content about physics, biochemistry, computing and more</span></li>
+<li><span class="textstyle17">Have earned a black tag in Tae Kwon Do</span></li>
+</ul>
+<span class="textstyle17"><br/>I'm reliable, hardworking and a quick learner. I enjoy explaining complex concepts to others and am patient and understanding.<br/></span><span class="textstyle19"><br/></span><span class="textstyle15">WORK EXPERIENCE</span><span class="textstyle17"><br/><br/></span><span class="textstyle18">Bristol University June 2025</span><span class="textstyle17">:<br/>Cyber security work experience, covering the basics of cyber security and touching on some cyber forensics E.G. use of nmap, hydra, S.E. tookit etc.<br/><br/></span><span class="textstyle18">Centre for Modelling and Simulations (CFMS) February 2025</span><span class="textstyle17">:<br/>Work experience included a simulation coding project and learning about their computing systems and how they are used.</span></div>
+</div></div>  </div>
+</body>
+</html>
